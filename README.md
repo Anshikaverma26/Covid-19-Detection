@@ -11,7 +11,7 @@ In the middle of a global pandemic, when everything seems confusing and uncertai
 
 The motive of this project is to provide you with a facility that helps you to predict whether you are infected by covid or not at your home being in your comfort zone. All you have to do is to upload your PA view chest x-ray and that’s it, with a few clicks you’ll be able to predict the results with great accuracy. The basic yet informative interface of our website plays a vital role in eliminating the confusion and chaos. We provide great accuracy because of our highly analyzed ML model.
 
-Project Repo: https://github.com/UAceIt-Winter-of-Mentorship/Covid-Detection
+
 
 Technical Stacks used: Python, numpy, pandas, HTML, CSS, Javascript, flask, keras 
 

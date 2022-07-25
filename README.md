@@ -3,7 +3,7 @@ A web app to Predict covid-19 from PA view of Chest X-ray using CNN
 
 Project Name: COVID-19 DETECTION                                         
 
-Name of the contributors: Ujjwal Hendwe & Anshika Verma
+Name of the contributors: Anshika Verma
 
 About the project: 
 

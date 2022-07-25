@@ -44,6 +44,7 @@ Working of Web App: The web App takes an X-ray image as an Input and predicts it
 Test 1: Testing Covid-19 Positive Image.(In Dark Mode)
 
 Step 1: choosing Image 1
+https://github.com/Anshikaverma26/Covid-19-Detection/issues/1#issue-1316657485
 
 Step 2:X-Ray uploaded now click on let’s go for viewing results. 2
 
